@@ -20,8 +20,8 @@ npm install
 ```
 
 ## Built With
-*[NodeJS] - The Backend framework used
-*[Typescript] - Code base
+* [NodeJS] - The Backend framework used
+* [Typescript] - Code base
 
 ## Author
 
