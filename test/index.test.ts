@@ -2,7 +2,7 @@ import { getCombinations, findWords } from '../src';
 
 describe('Testing getCombinations function',() => {
 
-    it('returns a map of strings and numbers',() => {
+    it('returns an array of strings',() => {
         const input = 'ate';
         const combos = getCombinations(input);
         expect(combos).toBeInstanceOf(Array);
