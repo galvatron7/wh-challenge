@@ -1,8 +1,10 @@
 # Wh-Challenge
-Demo for Weekend Health - 
+Demo for Weekend Health 
 ## Description
 This code implements a `findWords` function which returns an array of words from a dictionary that can be formed by rearranging some or all of the letters in the input string.
-
+ * The approach is to break up the tasks into functions and have one function responsible for getting all combinations of the string and another function to find matches within the dictionary.
+ * The function to get all combinations of the string uses recursion for efficiency.
+ * With more time I would have tested more strings with spaces and had a larger dictionary of words.
 ## Getting Started
 Run `npm test` to run the tests for each function
 
