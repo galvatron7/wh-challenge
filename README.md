@@ -1,5 +1,8 @@
 # Wh-Challenge
-Demo for Weekend Health
+Demo for Weekend Health - 
+## Description
+This code implements a `findWords` function which returns an array of words from a dictionary that can be formed by rearranging some or all of the letters in the input string.
+
 ## Getting Started
 Run `npm test` to run the tests for each function
 
@@ -22,6 +25,7 @@ npm install
 ## Built With
 * [NodeJS] - The Backend framework used
 * [Typescript] - Code base
+* [Jest] - Testing framework
 
 ## Author
 
