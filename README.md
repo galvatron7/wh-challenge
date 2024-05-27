@@ -1,7 +1,7 @@
 # Wh-Challenge
 Demo for Weekend Health
 ## Getting Started
-* Run `npm test` to run the tests for each function
+Run `npm test` to run the tests for each function
 
 ### Prerequisites
 
